@@ -39,8 +39,7 @@ Buscando sempre se aprimorar em Inteligência Artificial, automação e inovaç�
 
 ## 🏆 Conquistas
 
-- ![GitHub Achievement](https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical)  
-- GitHub Arctic Code Vault Contributor  
+- ![GitHub Achievement](https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical)    
 - Participação ativa em projetos Open Source  
 
 ---
