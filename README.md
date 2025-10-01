@@ -56,7 +56,6 @@ Gosto de criar soluções que impactem positivamente o dia a dia das pessoas e e
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Arctic_Code_Vault-0CAFFF?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Open_Source_Contributor-FF6F00?style=for-the-badge&logo=github" />
 </p>
 
