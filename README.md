@@ -4,14 +4,21 @@ Buscando sempre se aprimorar em Inteligência Artificial, automação e inovaç�
 
 ---
 
-## 💻 Tecnologias e Linguagens
+## 💻 Tecnologias e Ferramentas
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Laravel-FC4C02?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Kitty-FF66AA?style=for-the-badge&logo=kitty&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
 
 ---
 
@@ -41,6 +48,6 @@ Buscando sempre se aprimorar em Inteligência Artificial, automação e inovaç�
 ## 📫 Contato
 
 - Email: gabriellina640@gmail.com  
-- Twitter: [@gabriellina640](https://instagram.com/gaahenrique__)  
+- Instragram: [@gabriellina640](https://instagram.com/gaahenrique__)  
 
 
