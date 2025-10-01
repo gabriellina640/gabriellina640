@@ -1,11 +1,7 @@
 # 👋 Olá, eu sou Gabriel
 
-Sou apaixonado por **Inteligência Artificial, automação e inovação**.  
-Gosto de criar soluções que impactam positivamente o dia a dia das pessoas e empresas.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
-</p>
+Buscando sempre se aprimorar em **Inteligência Artificial, automação e inovação**.  
+Gosto de criar soluções que impactem positivamente o dia a dia das pessoas e empresas.
 
 ---
 
@@ -44,9 +40,9 @@ Gosto de criar soluções que impactam positivamente o dia a dia das pessoas e e
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" />
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="150" />
   <img src="https://media.giphy.com/media/26xBukh2P2hqA3xYY/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150" />
 </p>
 
 ---
@@ -63,9 +59,8 @@ Gosto de criar soluções que impactam positivamente o dia a dia das pessoas e e
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Arctic_Code_Vault-0CAFFF?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Open_Source_Contributor-FF6F00?style=for-the-badge&logo=github" />
