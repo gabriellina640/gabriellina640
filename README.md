@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gabriel
 
 Sou apaixonado por **Inteligência Artificial, automação e inovação**.  
-Crio soluções que impactam positivamente o dia a dia das pessoas e empresas.  
+Gosto de criar soluções que impactam positivamente o dia a dia das pessoas e empresas.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
@@ -29,31 +29,6 @@ Crio soluções que impactam positivamente o dia a dia das pessoas e empresas.
 
 ---
 
-## 📊 Minhas Skills
-
-<p align="center">
-  <b>PHP</b> <br>
-  <img src="https://progress-bar.dev/90/?color=777BB4" width="400">
-</p>
-<p align="center">
-  <b>Python</b> <br>
-  <img src="https://progress-bar.dev/95/?color=3776AB" width="400">
-</p>
-<p align="center">
-  <b>Machine Learning / AI</b> <br>
-  <img src="https://progress-bar.dev/85/?color=FF6F00" width="400">
-</p>
-<p align="center">
-  <b>Docker</b> <br>
-  <img src="https://progress-bar.dev/80/?color=2496ED" width="400">
-</p>
-<p align="center">
-  <b>Laravel</b> <br>
-  <img src="https://progress-bar.dev/90/?color=FC4C02" width="400">
-</p>
-
----
-
 ## 🚀 Projetos Recentes
 
 <p align="center">
@@ -68,13 +43,19 @@ Crio soluções que impactam positivamente o dia a dia das pessoas e empresas.
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/26xBukh2P2hqA3xYY/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150" />
+</p>
+
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellina640&show_icons=true&theme=radical" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellina640&layout=compact&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellina640&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellina640&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -82,7 +63,7 @@ Crio soluções que impactam positivamente o dia a dia das pessoas e empresas.
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical" width="300"/>
 </p>
 
 <p align="center">
