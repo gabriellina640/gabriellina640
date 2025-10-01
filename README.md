@@ -24,9 +24,9 @@ Buscando sempre se aprimorar em Inteligência Artificial, automação e inovaç�
 
 ## 🚀 Projetos Recentes
 
-- [TranscreveAI](https://github.com/gabriellina640/transcreveai) – Plataforma de transcrição automática de áudios e vídeos  
-- [SeringalLab](https://github.com/gabriellina640/seringallab_2025) – Site institucional com iniciativas de inovação  
-- [MPAC Lab](https://github.com/gabriellina640/mpac-lab) – Aprendizado de Python e Inteligência Artificial  
+- [audio_evolucao](https://github.com/gabriellina640/audio_evolucao) – Plataforma de transcrição automática de áudios e preenchimento de prompt médico  
+- [previsaobitcoin24h](https://github.com/gabriellina640/previsaobitcoin24h) – Usando progressão linear para fazer previsões do preço do bitcoin  
+- [afp_figado](https://github.com/gabriellina640/afp_figado) – Usando progressão linear para ver números de exames e prever possiveis alterações  
 
 ---
 
