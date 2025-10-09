@@ -19,7 +19,6 @@ Gosto de criar soluções que impactem positivamente o dia a dia das pessoas e e
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kitty-FF66AA?style=for-the-badge&logo=kitty&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
