@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gabriel
 
 Buscando sempre se aprimorar em **Inteligência Artificial, automação e inovação**.  
-Gosto de criar soluções que impactem positivamente o dia a dia das pessoas e empresas.
+Gosto de criar soluções que impactem positivamente o dia a dia das pessoas.
 
 ---
 
