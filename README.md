@@ -1,60 +1,52 @@
-# 👋 Fala dev! Eu sou o Gabriel  
 
-Apaixonado por **Inteligência Artificial**, **automação** e **tecnologia que resolve de verdade**.  
-Gosto de criar soluções que unem lógica, criatividade e um toque de “por que não?”.  
-Códigos limpos, boas ideias e commits com propósito (quase sempre).
+## 👾 Eu sou o Gabriel
 
----
-
-## 💻 Tecnologias e Ferramentas  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FC4C02?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-> “Código bom é aquele que funciona e ainda dá orgulho de mostrar.”  
+Entusiasta de **Inteligência Artificial**, **automação** e tudo que envolve inovação.  
+Meu código é 100% funcional (pelo menos até a próxima atualização 😅).  
+Foco em criar soluções criativas com impacto real — e estilo retrô, claro.  
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 💻 Tecnologias e Ferramentas
+
+🧠 Python ░ PHP ░ Laravel ░ Machine Learning  
+🐋 Docker ░ Linux ░ Git ░ VS Code  
+⚙️ Automação ░ Inteligência Artificial  
+
+> “Código bom é aquele que resolve — e ainda parece magia.” ✨
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriellina640&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellina640&layout=compact&theme=radical" />
 </p>
 
-> “Nem tudo são números, mas esses aqui até que estão legais.”  
+---
+
+## 🎮 Modo de Jogo
+
+🟩 Aprender algo novo todos os dias  
+🟩 Automatizar o que dá trabalho demais  
+🟩 Criar soluções que pareçam simples  
+🟨 Refatorar com estilo  
+🟥 Pausar? Só depois do deploy  
 
 ---
 
-## ⚡ Sobre mim  
-
-- 🚀 Curioso nato e movido por desafios  
-- 💡 Sempre buscando deixar o código mais inteligente (e o mundo mais simples)  
-- 🧠 Aprendendo, testando e criando — o ciclo nunca para  
-- 🔧 Gosto de entender o "por trás das coisas" (inclusive dos bugs)  
-- ☕ Café é parte essencial do processo criativo  
-
----
-
-## 🏆 Conquistas  
+## 🏆 Conquistas
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellina640&theme=radical" />
 </p>
 
-> “Todo commit é um passo pra frente. Alguns só dão mais voltas que outros.”  
+> “Cada commit é um power-up.” 🕹️
 
 ---
 
-## 📫 Contato  
+## 📫 Contato
 
 <p align="center">
   <a href="mailto:gabriellina640@gmail.com">
@@ -67,4 +59,4 @@ Códigos limpos, boas ideias e commits com propósito (quase sempre).
 
 ---
 
-💬 *"Tecnologia é sobre resolver problemas — e criar soluções que a gente tenha orgulho de assinar."*
+🧩 *“Versão 8-bit do Gabriel: rodando em modo criativo.”*
