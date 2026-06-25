@@ -1,7 +1,6 @@
 # Gabriel 
 
 Entusiasta de **Inteligência Artificial**, **automação** e inovação.  
-Foco em criar soluções criativas e funcionais com impacto real.
 
 ---
 
