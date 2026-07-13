@@ -1,12 +1,12 @@
 # Gabriel Henrique
 
-Sou desenvolvedor com interesse em criar soluções que unam software, automação e inteligência artificial para resolver problemas reais.
+Sou desenvolvedor com interesse em software, automação e inteligência artificial.
 
-Atualmente atuo no @mp-ac, participando de projetos voltados à inovação, automação de processos e uso de inteligência artificial aplicada. Tenho buscado aprofundar meus conhecimentos em agentes de IA, LLMs, engenharia de prompts, integração entre sistemas e desenvolvimento de ferramentas inteligentes.
+Atualmente atuo no @mp-ac e tenho participado de projetos relacionados à inovação e ao uso de IA em soluções internas. No dia a dia, venho estudando e trabalhando com agentes de IA, LLMs, engenharia de prompts, integração entre sistemas e desenvolvimento web.
 
-Minha base técnica envolve principalmente Python, PHP, Laravel, Docker, Git e desenvolvimento web. Gosto de aprender construindo, testar novas ideias e transformar necessidades práticas em soluções funcionais.
+Minha base técnica envolve principalmente Python, PHP, Laravel, Docker, Git e VS Code. Gosto de aprender na prática, entender melhor as tecnologias que uso e evoluir construindo projetos reais.
 
-## Principais interesses
+## Interesses
 
 Inteligência artificial aplicada
 Automação de processos
@@ -16,7 +16,7 @@ Integração entre sistemas
 Machine learning
 LLMs e engenharia de prompts
 
-## Tecnologias que utilizo
+## Tecnologias
 
 Python
 PHP
